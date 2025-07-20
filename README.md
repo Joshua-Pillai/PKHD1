@@ -2,7 +2,7 @@
 
 Molecular basis of fibrocystin: A structure uncovering all motifs, interdomains, and mutations implicated in autosomal recessive polycystic kidney disease
 
-Joshua Pillai1,2,3,4, Sidhant Puntambekar4, Ana Onuchic-Whitford4,5,6,7, Luiz Onuchic8,9, John Sayer10,11+, Matthew G. Sampson6,7,8,9+
+Joshua Pillai, Sidhant Puntambekar, Ana Onuchic-Whitford, Luiz Onuchic, John Sayer, Matthew G. Sampson
 
 1School of Biological Sciences, University of California, San Diego, La Jolla, CA, USA.
 2Department of Neurosciences, University of California San Diego, School of Medicine, La Jolla, CA, USA.
