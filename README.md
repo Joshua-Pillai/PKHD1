@@ -4,8 +4,8 @@ Molecular basis of fibrocystin: A structure uncovering all motifs, interdomains,
 
 Joshua Pillai1,2,3,4, Sidhant Puntambekar4,5, John Sayer8,9+, Matthew G. Sampson4,5,6,7+
 
-1School of Biological Sciences, University of California, San Diego, La Jolla, CA, USA.
-2Department of Neurosciences, University of California San Diego, School of Medicine, La Jolla, CA, USA.
+#1School of Biological Sciences, University of California, San Diego, La Jolla, CA, USA.
+#2Department of Neurosciences, University of California San Diego, School of Medicine, La Jolla, CA, USA.
 3Biophotonics Technology Center, Institute of Engineering in Medicine, University of California, San Diego, La Jolla, CA, USA.
 4Division of Nephrology, Boston Children’s Hospital, Boston, MA, USA.
 5Kidney Disease Initiative, Broad Institute, Cambridge, MA, USA.
