@@ -4,7 +4,7 @@
 @Article{
   author  = {Joshua P. Pillai, Sidhant Puntambekar, Matthew G. Sampson, John A. Sayer},
   journal = {BioRxiv},
-  title   = {Molecular basis of fibrocystin: A structure uncovering all motifs, interdomains, and mutations implicated in autosomal recessive polycystic kidney disease},
+  title   = {Molecular basis of fibrocystin: A structure mapping all domains and missense variants in autosomal recessive polycystic kidney disease},
   doi    = {XXXX}
 }
 ```
