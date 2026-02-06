@@ -1,0 +1,44 @@
+# Uniprot ACC,Entry name,Gene name,Ensemble id,protein variant,is_snv,a.a.1,position,a.a.2,alphamissense_pathogenicity score,pathogenicity class,REVEL pathogenicity score,REVEL pathogenicity class,wild_type_aa,aa_position,RSA,mutant_aa,wt_aa_1,mut_aa_1,is_buried,Buried_Pro_introduced,Buried_hydrophilic_introduced,Buried_charge_introduced,Buried_charge_switch,Buried_charge_replaced,Buried_Gly_replaced,ScalePKD_prediction,domain,converted_variant
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Thr36Met,y,T,36,M,0.4799,ambiguous,0.749,likely_pathogenic,Thr,36,0.006,Met,T,M,True,False,False,False,False,False,False,benign,IPT 1,T36M
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Ile222Met,y,I,222,M,0.204,likely_benign,,,Ile,222,0.0,Met,I,M,True,False,False,False,False,False,False,benign,IPT 2,I222M
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Ile222Val,y,I,222,V,0.1176,likely_benign,,,Ile,222,0.0,Val,I,V,True,False,False,False,False,False,False,benign,IPT 2,I222V
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Ser228Gly,y,S,228,G,0.3097,likely_benign,,,Ser,228,0.056,Gly,S,G,True,False,False,False,False,False,False,benign,IPT 2,S228G
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Val264Met,y,V,264,M,0.3732,ambiguous,0.527,likely_pathogenic,Val,264,0.036,Met,V,M,True,False,False,False,False,False,False,benign,IPT 3,V264M
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Phe283Ile,y,F,283,I,0.4396,ambiguous,0.671,likely_pathogenic,Phe,283,0.232,Ile,F,I,True,False,False,False,False,False,False,benign,IPT 3,F283I
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Thr311Ala,y,T,311,A,0.1476,likely_benign,,,Thr,311,0.0,Ala,T,A,True,False,False,False,False,False,False,benign,IPT 3,T311A
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Thr311Ile,y,T,311,I,0.4244,ambiguous,0.657,likely_pathogenic,Thr,311,0.0,Ile,T,I,True,False,False,False,False,False,False,benign,IPT 3,T311I
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Pro739Leu,y,P,739,L,0.1597,likely_benign,,,Pro,739,0.487,Leu,P,L,False,False,False,False,False,False,False,benign,Interdomain*,P739L
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Pro755Leu,y,P,755,L,0.3214,likely_benign,,,Pro,755,0.318,Leu,P,L,False,False,False,False,False,False,False,benign,Interdomain*,P755L
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Arg760His,y,R,760,H,0.0731,likely_benign,,,Arg,760,0.732,His,R,H,False,False,False,False,False,False,False,benign,Interdomain*,R760H
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Val836Ala,y,V,836,A,0.4558,ambiguous,0.841,likely_pathogenic,Val,836,0.115,Ala,V,A,True,False,False,False,False,False,False,benign,Interdomain*,V836A
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Thr842Pro,y,T,842,P,0.1291,likely_benign,,,Thr,842,0.319,Pro,T,P,False,False,False,False,False,False,False,benign,Interdomain*,T842P
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Asn901Thr,y,N,901,T,0.1852,likely_benign,,,Asn,901,0.209,Thr,N,T,True,False,False,False,False,False,False,benign,Unassigned,N901T
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Thr979Ile,y,T,979,I,0.5063,ambiguous,0.651,likely_pathogenic,Thr,979,0.411,Ile,T,I,False,False,False,False,False,False,False,benign,IPT 4,T979I
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.His993Arg,y,H,993,R,0.186,likely_benign,,,His,993,0.032,Arg,H,R,True,False,False,False,False,False,False,benign,IPT 4,H993R
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Gly1123Ser,y,G,1123,S,0.1282,likely_benign,,,Gly,1123,0.639,Ser,G,S,False,False,False,False,False,False,False,benign,IPT 6,G1123S
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Ser1156Leu,y,S,1156,L,0.0948,likely_benign,,,Ser,1156,0.434,Leu,S,L,False,False,False,False,False,False,False,benign,IPT 6,S1156L
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Gly1180Glu,y,G,1180,E,0.2143,likely_benign,,,Gly,1180,0.753,Glu,G,E,False,False,False,False,False,False,False,benign,IPT 6,G1180E
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Gly1449Val,y,G,1449,V,0.1486,likely_benign,,,Gly,1449,0.598,Val,G,V,False,False,False,False,False,False,False,benign,IPT 9,G1449V
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Arg1624Trp,y,R,1624,W,0.0991,likely_benign,,,Arg,1624,0.257,Trp,R,W,False,False,False,False,False,False,False,benign,IPT 11,R1624W
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Val1627Phe,y,V,1627,F,0.3227,likely_benign,,,Val,1627,0.006,Phe,V,F,True,False,False,False,False,False,False,benign,IPT 11,V1627F
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Pro1628Ala,y,P,1628,A,0.2629,likely_benign,,,Pro,1628,0.182,Ala,P,A,True,False,False,False,False,False,False,benign,IPT 11,P1628A
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Ser1664Phe,y,S,1664,F,0.1173,likely_benign,,,Ser,1664,0.503,Phe,S,F,False,False,False,False,False,False,False,benign,IPT 12,S1664F
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Asn1744His,y,N,1744,H,0.3573,ambiguous,0.532,likely_pathogenic,Asn,1744,0.267,His,N,H,False,False,False,False,False,False,False,benign,CRD2,N1744H
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Asn1779Ser,y,N,1779,S,0.1107,likely_benign,,,Asn,1779,0.444,Ser,N,S,False,False,False,False,False,False,False,benign,CRD2,N1779S
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Tyr1838Cys,y,Y,1838,C,0.3561,ambiguous,0.743,likely_pathogenic,Tyr,1838,0.027,Cys,Y,C,True,False,False,False,False,False,False,benign,CRD2,Y1838C
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Val1875Gly,y,V,1875,G,0.5472,ambiguous,0.889,likely_pathogenic,Val,1875,0.321,Gly,V,G,False,False,False,False,False,False,False,benign,CRD2,V1875G
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Asp1942Gly,y,D,1942,G,0.1472,likely_benign,,,Asp,1942,0.588,Gly,D,G,False,False,False,False,False,False,False,benign,G8 1,D1942G
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Arg2298Ile,y,R,2298,I,0.274,likely_benign,,,Arg,2298,0.336,Ile,R,I,False,False,False,False,False,False,False,benign,PbH1 3,R2298I
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Ile2303Phe,y,I,2303,F,0.1181,likely_benign,,,Ile,2303,0.0,Phe,I,F,True,False,False,False,False,False,False,benign,PbH1 3,I2303F
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.His2655Arg,y,H,2655,R,0.5063,ambiguous,0.786,likely_pathogenic,His,2655,0.028,Arg,H,R,True,False,False,False,False,False,False,benign,FN3,H2655R
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Val2773Leu,y,V,2773,L,0.394,ambiguous,0.678,likely_pathogenic,Val,2773,0.0,Leu,V,L,True,False,False,False,False,False,False,benign,G8 2,V2773L
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Ser2833Pro,y,S,2833,P,0.4157,ambiguous,0.774,likely_pathogenic,Ser,2833,0.441,Pro,S,P,False,False,False,False,False,False,False,benign,G8 2,S2833P
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Arg2840Cys,y,R,2840,C,0.1622,likely_benign,,,Arg,2840,0.294,Cys,R,C,False,False,False,False,False,False,False,benign,G8 2,R2840C
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Thr2869Lys,y,T,2869,K,0.3895,ambiguous,0.54,likely_pathogenic,Thr,2869,0.006,Lys,T,K,True,False,False,True,False,False,False,pathogenic,G8 2,T2869K
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.His3049Arg,y,H,3049,R,0.3528,ambiguous,0.589,likely_pathogenic,His,3049,0.144,Arg,H,R,True,False,False,False,False,False,False,benign,PbH1 8,H3049R
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Tyr3155Cys,y,Y,3155,C,0.4312,ambiguous,0.836,likely_pathogenic,Tyr,3155,0.0,Cys,Y,C,True,False,False,False,False,False,False,benign,PbH1-like,Y3155C
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Arg3333Lys,y,R,3333,K,0.106,likely_benign,,,Arg,3333,0.626,Lys,R,K,False,False,False,False,False,False,False,benign,PbH1-like,R3333K
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Arg3333Thr,y,R,3333,T,0.1295,likely_benign,,,Arg,3333,0.626,Thr,R,T,False,False,False,False,False,False,False,benign,PbH1-like,R3333T
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Trp3576Leu,y,W,3576,L,0.2775,likely_benign,,,Trp,3576,0.102,Leu,W,L,True,False,False,False,False,False,False,benign,SEA,W3576L
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Glu3582Ala,y,E,3582,A,0.1761,likely_benign,,,Glu,3582,0.449,Ala,E,A,False,False,False,False,False,False,False,benign,SEA,E3582A
+P08F94,PKHD1_HUMAN,PKHD1,ENST00000371117.8,p.Gly3836Arg,y,G,3836,R,0.2988,likely_benign,,,Gly,3836,0.794,Arg,G,R,False,False,False,False,False,False,False,benign,Unassigned,G3836R
