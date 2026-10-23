@@ -2,9 +2,9 @@
 
 ```bibtex
 @Article{
-  author  = {Joshua P. Pillai, Sidhant N. Puntambekar, Ana C. Onuchic-Whitford, Frederico M. Ferreira, Luiz F. Onuchic, Matthew G. Sampson, John A. Sayer},
-  journal = {bioRxiv},
-  title   = {Molecular basis of fibrocystin reveals domain architecture, organization, and missense variants causing autosomal recessive polycystic kidney disease},
+  author  = {Joshua P. Pillai, Sidhant N. Puntambekar, Ana C. Onuchic-Whitford, Frederico M. Ferreira, Matthew G. Sampson, Luiz F. Onuchic, John A. Sayer},
+  journal = {Computational and Structural Biotechnology Journal},
+  title   = {Autosomal Recessive Polycystic Kidney Disease: The complete molecular architecture for the PKHD1 gene and its protein},
   doi     = {Pending}
 }
 ```
